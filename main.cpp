@@ -20,6 +20,7 @@ using namespace std;
  */
 int main(int argc, char** argv) {
     cout <<"test git sur netbean";
+    cout <<"ajout du 2eme cout";
     return 0;
 }
 
