@@ -22,6 +22,10 @@ int main(int argc, char** argv) {
     cout <<"test git  netbean";
     cout <<"ajout du 2eme cout";
     cout << "Modification" << endl;
+    cout <<"test git sur netbean";
+    
+    cout << "J'ai modifié." << endl;
+    cout <<"ajout du 3eme cout";
     return 0;
 }
 
