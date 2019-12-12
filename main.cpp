@@ -19,9 +19,9 @@ using namespace std;
  * 
  */
 int main(int argc, char** argv) {
-    cout <<"test git sur netbean";
+    cout <<"test git  netbean";
     cout <<"ajout du 2eme cout";
-    cout << "J'ai modifié." << endl;
+    cout << "Modification" << endl;
     return 0;
 }
 
